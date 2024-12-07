@@ -3,4 +3,4 @@ tools is a supplimentary service with grpc and other toolkit for cleaning-servic
 
 **Accessable packages:**
 - `log` - contains logs producer with tracing id.
-
+- `server` - contains ***http*** and ***grpc*** server's options for listening and shutdown servers.
